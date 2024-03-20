@@ -1,0 +1,7 @@
+.landing-content {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #78a9f7;
+    justify-content: center;
+}
