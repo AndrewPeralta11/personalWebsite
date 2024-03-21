@@ -7,22 +7,22 @@ const HeaderPage = () => {
     return (
         <div className="header">
             <h1>Work In Progress</h1>
-            <div class="radio-inputs">
-                <label class="radio">
+            <div className="radio-inputs">
+                <label className="radio">
                     <input type="radio" name="radio"/>
-                    <Link to="/"><span class="name">Home</span></Link>
+                    <Link to="/" className="name"><span>Home</span></Link>
                 </label>
                 <label class="radio">
                     <input type="radio" name="radio"/>
-                    <Link to="/about"><span class="name">About</span></Link>
+                    <Link to="/about" className="name"><span>About</span></Link>
                 </label>
                 <label class="radio">
                     <input type="radio" name="radio"/>
-                    <Link to="/projects"><span class="name">Projects</span></Link>
+                    <Link to="/projects" className="name"><span>Projects</span></Link>
                 </label>
                 <label class="radio">
                     <input type="radio" name="radio"/>
-                    <Link to="/contact"><span class="name">Contact</span></Link>
+                    <Link to="/contact" className="name"><span>Contact</span></Link>
                 </label>
             </div>
         </div>

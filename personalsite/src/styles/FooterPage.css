@@ -1,18 +1,17 @@
 .footer {
     display: flex;
+    zoom: 1;
     justify-content: left;
     align-items: center;
-    height: 100px;
+    height:70px;
     background-color: royalblue;
     color: #6c757d;
     font-size: 14px;
     font-weight: 400;
     text-align: center;
-    padding: 0 20px;
-    position:absolute;
-    bottom:0;
-    width:100%;
-    height:60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .example-2 {
@@ -53,7 +52,7 @@
     height: 50px;
     border-radius: 50%;
     color: #4d4d4d;
-    background-color: #fff;
+    background-color: #b2cefb;
     transition: all 0.3s ease-in-out;
 }
 .example-2 .icon-content a:hover {

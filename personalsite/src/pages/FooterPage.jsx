@@ -59,7 +59,7 @@ const FooterPage = () => {
                 </li>
                 <li class="icon-content">
                     <a
-                        href="https://www.instagram.com/"
+                        href="https://www.instagram.com/work_in_progress_122?igsh=MWc1cnptZjJjNm9vbw%3D%3D&utm_source=qr"
                         aria-label="Instagram"
                         data-social="instagram"
                         target="_blank"
